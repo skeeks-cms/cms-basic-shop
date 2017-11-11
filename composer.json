@@ -1,0 +1,38 @@
+{
+	"name": "skeeks/cms-basic-shop",
+	"description": "SkeekS CMS basic shop package",
+	"keywords": ["yii", "skeeks", "framework", "component"],
+  	"homepage": "https://cms.skeeks.com/",
+	"type": "yii2-extension",
+	"license": "GPL-3.0+",
+	"support": {
+        "issues": "https://skeeks.com/",
+        "wiki": "https://cms.skeeks.com/docs",
+        "source": "https://github.com/skeeks-cms/cms-basic.git"
+    },
+	"authors": [
+		{
+			"name": "Semenov Alexander",
+			"email": "semenov@skeeks.com"
+		}
+	],
+	"require": {
+		"skeeks/cms-basic": "~1.0.0 || dev-master",
+        "skeeks/cms-shop": "~2.0.1 || dev-master",
+		"skeeks/cms-shop-cart-steps-widget": "~1.0.0 || dev-master",
+        "skeeks/cms-shop-cart-items-widget": "~1.0.0 || dev-master",
+        "skeeks/cms-shop-checkout-widget": "~1.0.0 || dev-master",
+        "skeeks/cms-shop-discount-coupon-widget": "~1.0.0 || dev-master",
+		"skeeks/cms-import-csv-content": "~1.0.0 || dev-master",
+        "skeeks/cms-import-csv-shop-content": "~1.0.0 || dev-master",
+        "skeeks/cms-export-csv-content": "~1.0.0 || dev-master",
+        "skeeks/cms-export-shop-yandex-market": "~1.0.0 || dev-master",
+		"skeeks/cms-module-reviews2": "~2.1.0 |	| dev-master",
+        "kartik-v/yii2-widget-rating": "~1.0.0 || dev-master"
+	},
+    "autoload": {
+        "psr-4": {
+            "skeeks\\cms\\cmsbasic\\": "src/"
+        }
+    }
+}
