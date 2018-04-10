@@ -27,6 +27,8 @@
         "skeeks/cms-import-csv-shop-content": "~1.2.0 || dev-master",
         "skeeks/cms-export-csv-content": "~1.1.0 || dev-master",
         "skeeks/cms-export-shop-yandex-market": "~1.1.0 || dev-master",
+		"skeeks/cms-export-sitemap": "~1.1.0 || dev-master",
+		
 		"skeeks/cms-module-reviews2": "~2.1.0 || dev-master",
         "kartik-v/yii2-widget-rating": "~1.0.0 || dev-master"
 	},
