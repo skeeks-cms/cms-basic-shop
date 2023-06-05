@@ -35,6 +35,8 @@
         "skeeks/cms-shop-paysystem-robokassa": "^1.0 || dev-master",
         "skeeks/cms-shop-paysystem-tinkoff": "^1.0 || dev-master",
 
+        "skeeks/cms-shop-delivery-cdek": "^1.0.0 || dev-master",
+
         "skeeks/cms-smsru-callcheck-handler": "^1.0 || dev-master",
 
         "skeeks/cms-smsru-handler": "^1.0 || dev-master",
@@ -45,7 +47,7 @@
 	},
     "autoload": {
         "psr-4": {
-            "skeeks\\cms\\cmsbasic\\": "src/"
+            "skeeks\\cmsbasicshop\\": "src/"
         }
     }
 }
