@@ -20,15 +20,17 @@
 		"skeeks/cms-basic": "^1.1.0 || dev-master",
 
         "skeeks/cms-shop": "^3.0 || dev-master",
+
         "skeeks/cms-shop-cart-items-widget": "^2.0 || dev-master",
         "skeeks/cms-shop-discount-coupon-widget": "^1.0 || dev-master",
 
 		"skeeks/cms-import-csv-content": "^2.0 || dev-master",
         "skeeks/cms-import-csv-shop-content": "^2.0 || dev-master",
-        "skeeks/cms-export-csv-content": "~1.1.0 || dev-master",
 
-        "skeeks/cms-export-shop-yandex-market": "~1.1.0 || dev-master",
-		"skeeks/cms-export-sitemap": "~1.1.0 || dev-master",
+        "skeeks/cms-export-csv-content": "^1.1 || dev-master",
+        "skeeks/cms-export-shop-yandex-market": "^1.1 || dev-master",
+		"skeeks/cms-export-sitemap": "^1.1 || dev-master",
+
 		"skeeks/cms-module-reviews2": "^3.0 || dev-master",
         "kartik-v/yii2-widget-rating": "~1.0.0 || dev-master",
 
@@ -45,7 +47,7 @@
         "skeeks/cms-dadata": "^2.0 || dev-master",
 
         "skeeks/cms-external-links": "^1.0 || dev-master",
-        "skeeks/theme-unify-shop": "^1.0 || dev-master"
+        "skeeks/theme-unify-shop": "^2.0 || dev-master"
 	},
     "autoload": {
         "psr-4": {
