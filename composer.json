@@ -18,6 +18,7 @@
 	],
 	"require": {
 		"skeeks/cms-basic": "^1.1.0 || dev-master",
+
         "skeeks/cms-shop": "^2.3.0 || dev-master",
         "skeeks/cms-shop-cart-items-widget": "~1.0.0 || dev-master",
         "skeeks/cms-shop-discount-coupon-widget": "~1.0.0 || dev-master",
