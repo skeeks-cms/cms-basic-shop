@@ -30,16 +30,16 @@
 		"skeeks/cms-module-reviews2": "^3.0 || dev-master",
         "kartik-v/yii2-widget-rating": "~1.0.0 || dev-master",
 
-        "skeeks/cms-shop-paysystem-yookassa": "^1.0 || dev-master",
-        "skeeks/cms-shop-paysystem-sberbank": "^1.0 || dev-master",
-        "skeeks/cms-shop-paysystem-robokassa": "^1.0 || dev-master",
-        "skeeks/cms-shop-paysystem-tinkoff": "^1.0 || dev-master",
+        "skeeks/cms-shop-paysystem-yookassa": "^2.0 || dev-master",
+        "skeeks/cms-shop-paysystem-sberbank": "^2.0 || dev-master",
+        "skeeks/cms-shop-paysystem-robokassa": "^2.0 || dev-master",
+        "skeeks/cms-shop-paysystem-tinkoff": "^2.0 || dev-master",
 
-        "skeeks/cms-shop-delivery-cdek": "^1.0.0 || dev-master",
+        "skeeks/cms-shop-delivery-cdek": "^2.0 || dev-master",
 
-        "skeeks/cms-smsru-callcheck-handler": "^1.0 || dev-master",
+        "skeeks/cms-smsru-callcheck-handler": "^2.0 || dev-master",
 
-        "skeeks/cms-smsru-handler": "^1.0 || dev-master",
+        "skeeks/cms-smsru-handler": "^2.0 || dev-master",
         "skeeks/cms-dadata": "^2.0 || dev-master",
 
         "skeeks/cms-external-links": "^1.0 || dev-master",
