@@ -40,7 +40,7 @@
         "skeeks/cms-smsru-callcheck-handler": "^1.0 || dev-master",
 
         "skeeks/cms-smsru-handler": "^1.0 || dev-master",
-        "skeeks/cms-dadata": "^1.0 || dev-master",
+        "skeeks/cms-dadata": "^2.0 || dev-master",
 
         "skeeks/cms-external-links": "^1.0 || dev-master",
         "skeeks/theme-unify-shop": "^1.0 || dev-master"
