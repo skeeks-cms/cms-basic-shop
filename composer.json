@@ -17,7 +17,7 @@
 		}
 	],
 	"require": {
-		"skeeks/cms-basic": "^1.1.0 || dev-master",
+		"skeeks/cms-basic": "^2.0 || dev-master",
 
         "skeeks/cms-shop": "^3.0 || dev-master",
 
