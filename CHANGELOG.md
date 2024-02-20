@@ -1,6 +1,10 @@
 Changelog
 =========
 
+2.1.0
+-----------------
+ * cms-basic - removed
+ 
 2.0.0
 -----------------
  * cms-basic - removed

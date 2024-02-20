@@ -64,5 +64,20 @@
         "psr-4": {
             "skeeks\\cmsbasicshop\\": "src/"
         }
+    },
+    "extra": {
+		"config-plugin": {
+            "params": [
+				"src/config/params.php"
+			],
+            "web": [
+				"src/config/common.php",
+				"src/config/web.php"
+			],
+            "console": [
+				"src/config/common.php",
+				"src/config/console.php"
+			]
+        }
     }
 }
