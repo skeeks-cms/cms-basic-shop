@@ -43,9 +43,6 @@
         "skeeks/cms-export-shop-yandex-market": "^1.1 || dev-master",
 		"skeeks/cms-export-sitemap": "^1.1 || dev-master",
 
-		"skeeks/cms-module-reviews2": "^3.0 || dev-master",
-        "kartik-v/yii2-widget-rating": "~1.0.0 || dev-master",
-
         "skeeks/cms-shop-paysystem-yookassa": "^2.0 || dev-master",
         "skeeks/cms-shop-paysystem-sberbank": "^2.0 || dev-master",
         "skeeks/cms-shop-paysystem-robokassa": "^2.0 || dev-master",
