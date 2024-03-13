@@ -16,4 +16,10 @@ return [
         '@webroot' => '@frontend/web',
         '@web'     => '',
     ],
+    
+    'components' => [
+        'urlManager' => [
+            'hostInfo' => ''   
+        ]
+    ]
 ];
