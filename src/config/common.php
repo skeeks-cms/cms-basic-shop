@@ -93,14 +93,15 @@ return [
         'cmsAgent'     => [
             'onHitsEnabled' => false,
         ],
-        'i18n' => [
+        /*'i18n' => [
             'translations' => [
                 'app' => [
                     'class' => 'yii\i18n\PhpMessageSource',
                     'basePath' => '@skeeks/cms/cmsbasic/messages',
                 ],
             ],
-        ],
+        ],*/
     ]
 
 ];
+
