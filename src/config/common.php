@@ -32,6 +32,15 @@ return [
             ],
         ],
         
+        'storage' => [
+            'components' => [
+                'sx' => [
+                    'class' => \skeeks\cms\components\storage\SkeeksSuppliersCluster::class,
+                    'priority' => 200,
+                ],
+            ],
+        ],
+        
         'urlManager' => [
             'rules' => [
                 
