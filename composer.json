@@ -27,7 +27,7 @@
 		"skeeks/cms-db-dumper": "^2.0 || dev-master",
 		"skeeks/cms-log-db-target": "^2.0 || dev-master",
 		"skeeks/cms-assets-auto-compress": "^1.6 || dev-master",
-		"skeeks/cms-related-handler-extra": "^1.1 || dev-master",
+		"skeeks/cms-related-handler-extra": "^1.2 || dev-master",
 		"skeeks/cms-mysql-session": "^2.0 || dev-master",
 
         "skeeks/cms-shop": "^3.0 || dev-master",
