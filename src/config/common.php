@@ -80,6 +80,8 @@ return [
                 ],
 
                 '~search' => 'cmsSearch/result/index',
+                '~legal' => '/cms/legal',
+                '~legal-<action>' => '/cms/legal/<action>',
 
                 'tree' => [
                     'class' => \skeeks\cms\components\urlRules\UrlRuleTree::class,
