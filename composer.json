@@ -53,6 +53,8 @@
         "skeeks/cms-smsru-callcheck-handler": "^2.0 || dev-master",
 
         "skeeks/cms-smsru-handler": "^2.0 || dev-master",
+        "skeeks/cms-mainsms-sms-handler": "^1.0 || dev-master",
+
         "skeeks/cms-dadata": "^2.0 || dev-master",
 
         "skeeks/cms-external-links": "^1.0 || dev-master"
