@@ -17,7 +17,7 @@
 		}
 	],
 	"require": {
-		"skeeks/cms": "^6.0 || dev-master",
+		"skeeks/cms": "^6.4 || dev-master",
 
         "skeeks/cms-seo": "^3.0 || dev-master",
         "skeeks/cms-rp-view-widget": "^2.0 || dev-master",
